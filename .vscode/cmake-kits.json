@@ -1,0 +1,6 @@
+[
+    {
+    "name": "buildroot-sdk2",
+    "toolchainFile": "../arm_linux_gnueabihf-docker.cmake"
+    }
+]

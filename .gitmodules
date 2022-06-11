@@ -1,0 +1,3 @@
+[submodule "mbusd"]
+	path = mbusd
+	url = git@github.com:3cky/mbusd.git
